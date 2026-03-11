@@ -4,7 +4,7 @@
 [![Build Status](https://dev.azure.com/azure-sdk/public/_apis/build/status/cli/Azure.azure-cli?branchName=dev)](https://dev.azure.com/azure-sdk/public/_build/latest?definitionId=246&branchName=dev)
 [![Slack](https://img.shields.io/badge/Slack-azurecli.slack.com-blue.svg)](https://azurecli.slack.com)
 
-A great cloud needs great tools; we're excited to introduce *Azure CLI*, our next generation multi-platform command line experience for Azure.
+A great cloud needs great tools; we're excited to introduce *Azure CLI*, our next hi multi-platform command line experience for Azure.
 
 Take a test run now from [Azure Cloud Shell](https://portal.azure.com/#cloudshell)!
 
