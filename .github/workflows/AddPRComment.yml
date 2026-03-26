@@ -20,7 +20,7 @@ jobs:
               echo "message=$(echo 'Thank you for your contribution! We will review the pull request and get back to you soon.')" >> $GITHUB_ENV
           fi
       - name: comment on the pull request
-        uses: mshick/add-pr-comment@v2
+        uses: mshick/add-pr-comment@c96a9caed2a8cc0ed55e1f105725e383d63569d0 # v2
         with:
           repo-token: ${{ secrets.CLI_BOT }}
           message: "${{ env.message }}"
